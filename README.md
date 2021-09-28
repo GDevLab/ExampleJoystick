@@ -1,24 +1,19 @@
 # ExampleJoystick
 
 Using the joystick pins
-VCC
-
-GND
-
-VRx -> Variable resistance x
-
-VRY -> Variable resistance Y
-
-SW -> Switch / Button
+- VCC
+- GND
+- VRx -> Variable resistance x
+- VRY -> Variable resistance Y
+- SW -> Switch / Button
 
 Connection
-MODULE -> ARDUINO
-
-VCC -> 5V
-GND -> GND
-VRx -> A0
-VRy -> A1
-SW -> Pin 2
+- MODULE -> ARDUINO
+- VCC -> 5V
+- GND -> GND
+- VRx -> A0
+- VRy -> A1
+- SW -> Pin 2
 
 Set Pin
 ~~~C
